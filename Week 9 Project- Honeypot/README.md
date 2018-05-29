@@ -1,10 +1,8 @@
 ## Week 9 Project: Honeypot
 
-Which Honeypot(s) you deployed : Ubuntu - Dionaea with HTTP, Ubuntu - Snort
+Which Honeypot(s) you deployed : Ubuntu - Dionaea with HTTP, Ubuntu - Trusty
 
 Any issues you encountered:
-
-I had to fix "supervisorctl and hpfeeds-broker fatal reading error: Command Line> ./opt/hpfeeds/env/bin/python -m pip install --upgrade pyopenssl supervisorctl start hpfeeds-broker />
 
 A summary of the data collected: number of attacks, number of malware samples, etc.
 
